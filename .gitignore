@@ -57,7 +57,6 @@ public/uploads/categories/*
 public/uploads/users/*
 storage/app/private_uploads/users/*
 public/uploads/departments/*
-storage/debugbar/
 storage/dumps/*
 storage/laravel-backups
 storage/logs/*
